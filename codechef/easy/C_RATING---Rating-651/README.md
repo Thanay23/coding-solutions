@@ -52,7 +52,7 @@ Output
 
 ## Solution
 
-**Language:** C++  
+**Language:** Java 
 **Runtime:** N/A  
 **Memory:** N/A  
 **Submitted:** 2026-06-28T10:26:17.182Z  
