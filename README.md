@@ -6,8 +6,6 @@
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-6--28--2026-green?style=for-the-badge)
 
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
-
 </div>
 
 ---
@@ -45,6 +43,6 @@
 
 <div align="center">
 
-*Last updated: 2026-06-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-06-28* 
 
 </div>
