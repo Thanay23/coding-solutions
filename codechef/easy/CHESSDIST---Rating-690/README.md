@@ -55,7 +55,7 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-01T18:28:00.709Z  
+**Submitted:** 2026-08-01T18:28:19.308Z  
 
 ```java
 /* package codechef; // don't place package name! */
